@@ -1,13 +1,4 @@
 {
-  "itemGroup.torchautoplacer": "Example Mod Tab",
-  "block.torchautoplacer.example_block": "Example Block",
-  "item.torchautoplacer.example_item": "Example Item",
-
-  "torchautoplacer.configuration.title": "TorchAutoPlacer Configs",
-  "torchautoplacer.configuration.section.torchautoplacer.common.toml": "TorchAutoPlacer Configs",
-  "torchautoplacer.configuration.section.torchautoplacer.common.toml.title": "TorchAutoPlacer Configs",
-  "torchautoplacer.configuration.items": "Item List",
-  "torchautoplacer.configuration.logDirtBlock": "Log Dirt Block",
-  "torchautoplacer.configuration.magicNumberIntroduction": "Magic Number Text",
-  "torchautoplacer.configuration.magicNumber": "Magic Number"
+  "key.categories.torchautoplacer": "Torch Auto Placer",
+  "key.torchautoplacer.toggle": "Open Custom Screen"
 }
